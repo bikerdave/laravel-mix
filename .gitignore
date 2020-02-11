@@ -1,1 +1,6 @@
 /node_modules/
+/dist/css/
+/dist/js/
+/dist/mix-manifest.json
+
+package-lock.json
